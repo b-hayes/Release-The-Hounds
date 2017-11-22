@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 41494184dc34bd147b0268a7258a7aee
+timeCreated: 1476379677
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000
+  assetHash:
+    serializedVersion: 2
+    Hash: de619957222e02c4f823154fa1869b0f
+  longitude: -105.24213899999999
+  latitude: 40.018309000000002
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.9199748, y: 1.079651, z: -1.64800262}
+      lookAt: {x: -10.4427366, y: -3.60209751, z: 18.394453}
+      up: {x: -.105834477, y: .981631815, z: .158738926}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bowl
+    100002: Bowl 1
+    100004: Group 17
+    100006: Group 2
+    100008: Group 23
+    100010: Group 28
+    100012: Group 3
+    100014: Group 4
+    100016: Group 9
+    100018: Lever
+    100020: Lid
+    100022: Lid 1
+    100024: Seat
+    100026: Seat 1
+    100028: Seat Lid
+    100030: Seat Lid 1
+    100032: Tank
+    100034: Tank 1
+    100036: Toilet
+    100038: Toilet paper
+    100040: TOILET PAPER#1
+    100042: //RootNode
+    400000: Bowl
+    400002: Bowl 1
+    400004: Group 17
+    400006: Group 2
+    400008: Group 23
+    400010: Group 28
+    400012: Group 3
+    400014: Group 4
+    400016: Group 9
+    400018: Lever
+    400020: Lid
+    400022: Lid 1
+    400024: Seat
+    400026: Seat 1
+    400028: Seat Lid
+    400030: Seat Lid 1
+    400032: Tank
+    400034: Tank 1
+    400036: Toilet
+    400038: Toilet paper
+    400040: TOILET PAPER#1
+    400042: //RootNode
+    2300000: Bowl
+    2300002: Bowl 1
+    2300004: Group 17
+    2300006: Group 9
+    2300008: Lever
+    2300010: Lid
+    2300012: Lid 1
+    2300014: Seat
+    2300016: Seat 1
+    2300018: Seat Lid
+    2300020: Seat Lid 1
+    2300022: Tank
+    2300024: Tank 1
+    2300026: Toilet paper
+    3300000: Bowl
+    3300002: Bowl 1
+    3300004: Group 17
+    3300006: Group 9
+    3300008: Lever
+    3300010: Lid
+    3300012: Lid 1
+    3300014: Seat
+    3300016: Seat 1
+    3300018: Seat Lid
+    3300020: Seat Lid 1
+    3300022: Tank
+    3300024: Tank 1
+    3300026: Toilet paper
+    4300000: Mesh Lid
+    4300002: Mesh Group 9
+    4300004: Mesh Tank
+    4300006: Mesh Lever
+    4300008: Mesh Group 17
+    4300010: Mesh Bowl
+    4300012: Mesh Seat
+    4300014: Mesh Seat Lid
+    4300016: Mesh Toilet paper
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

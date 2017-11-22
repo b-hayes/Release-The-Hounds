@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: e54edccb0b72639448ae0b7237cb27bc
+timeCreated: 1476193256
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 450720193a90edbb6a9632a35de6e60e
+  longitude: -105.24213899999999
+  latitude: 40.018309000000002
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.47041035, y: 2.89729929, z: 10.4461603}
+      lookAt: {x: 7.70457458, y: 2.53348732, z: 9.2137394}
+      up: {x: -.128364667, y: .969974756, z: -.206570745}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Boards
+    100002: Guard_Support_Rail
+    100004: Guard_Support_Rail 1
+    100006: Guard_Support_Rail 2
+    100008: Guard_Support_Rail 3
+    100010: //RootNode
+    100012: Support_Rails
+    400000: Boards
+    400002: Guard_Support_Rail
+    400004: Guard_Support_Rail 1
+    400006: Guard_Support_Rail 2
+    400008: Guard_Support_Rail 3
+    400010: //RootNode
+    400012: Support_Rails
+    2300000: Boards
+    2300002: Guard_Support_Rail
+    2300004: Guard_Support_Rail 1
+    2300006: Guard_Support_Rail 2
+    2300008: Guard_Support_Rail 3
+    2300010: //RootNode
+    2300012: Support_Rails
+    3300000: Boards
+    3300002: Guard_Support_Rail
+    3300004: Guard_Support_Rail 1
+    3300006: Guard_Support_Rail 2
+    3300008: Guard_Support_Rail 3
+    3300010: //RootNode
+    3300012: Support_Rails
+    4300000: Mesh OldWalkwayBridge1
+    4300002: Mesh Boards
+    4300004: Mesh Support_Rails
+    4300006: Mesh Guard_Support_Rail
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

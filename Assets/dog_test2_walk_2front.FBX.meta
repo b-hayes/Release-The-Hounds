@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: ed7171ccfdfd2b341af348534097c294
+timeCreated: 1475026444
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Doggo
+    100004: Panther
+    100006: PantherHead
+    100008: PantherLLeg1
+    100010: PantherLLeg1 1
+    100012: PantherLLeg2
+    100014: PantherLLeg2 1
+    100016: PantherLLegAnkle
+    100018: PantherLLegAnkle 1
+    100020: PantherLLegPlatform
+    100022: PantherLLegPlatform 1
+    100024: PantherNeck1
+    100026: PantherNeck2
+    100028: PantherNeck3
+    100030: PantherNeck4
+    100032: PantherNeck5
+    100034: PantherPelvis
+    100036: PantherRibcage
+    100038: PantherRLeg1
+    100040: PantherRLeg1 1
+    100042: PantherRLeg2
+    100044: PantherRLeg2 1
+    100046: PantherRLegAnkle
+    100048: PantherRLegAnkle 1
+    100050: PantherRLegPlatform
+    100052: PantherRLegPlatform 1
+    100054: PantherSpine1
+    100056: PantherSpine2
+    100058: PantherSpine3
+    100060: PantherSpine4
+    100062: PantherSpine5
+    100064: PantherSpine6
+    100066: PantherTail1
+    400000: //RootNode
+    400002: Doggo
+    400004: Panther
+    400006: PantherHead
+    400008: PantherLLeg1
+    400010: PantherLLeg1 1
+    400012: PantherLLeg2
+    400014: PantherLLeg2 1
+    400016: PantherLLegAnkle
+    400018: PantherLLegAnkle 1
+    400020: PantherLLegPlatform
+    400022: PantherLLegPlatform 1
+    400024: PantherNeck1
+    400026: PantherNeck2
+    400028: PantherNeck3
+    400030: PantherNeck4
+    400032: PantherNeck5
+    400034: PantherPelvis
+    400036: PantherRibcage
+    400038: PantherRLeg1
+    400040: PantherRLeg1 1
+    400042: PantherRLeg2
+    400044: PantherRLeg2 1
+    400046: PantherRLegAnkle
+    400048: PantherRLegAnkle 1
+    400050: PantherRLegPlatform
+    400052: PantherRLegPlatform 1
+    400054: PantherSpine1
+    400056: PantherSpine2
+    400058: PantherSpine3
+    400060: PantherSpine4
+    400062: PantherSpine5
+    400064: PantherSpine6
+    400066: PantherTail1
+    4300000: Doggo
+    7400000: Walk
+    9500000: //RootNode
+    13700000: Doggo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Doggo
+        weight: 1
+      - path: Panther
+        weight: 1
+      - path: PantherLLegPlatform
+        weight: 1
+      - path: PantherLLegPlatform 1
+        weight: 1
+      - path: PantherPelvis
+        weight: 1
+      - path: PantherPelvis/PantherLLeg1
+        weight: 1
+      - path: PantherPelvis/PantherLLeg1/PantherLLeg2
+        weight: 1
+      - path: PantherPelvis/PantherLLeg1/PantherLLeg2/PantherLLegAnkle
+        weight: 1
+      - path: PantherPelvis/PantherRLeg1
+        weight: 1
+      - path: PantherPelvis/PantherRLeg1/PantherRLeg2
+        weight: 1
+      - path: PantherPelvis/PantherRLeg1/PantherRLeg2/PantherRLegAnkle
+        weight: 1
+      - path: PantherPelvis/PantherSpine1
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLeg1
+          1
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLeg1
+          1/PantherLLeg2 1
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherLLeg1
+          1/PantherLLeg2 1/PantherLLegAnkle 1
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherNeck1/PantherNeck2/PantherNeck3/PantherNeck4/PantherNeck5/PantherHead
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLeg1
+          1
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLeg1
+          1/PantherRLeg2 1
+        weight: 1
+      - path: PantherPelvis/PantherSpine1/PantherSpine2/PantherSpine3/PantherSpine4/PantherSpine5/PantherSpine6/PantherRibcage/PantherRLeg1
+          1/PantherRLeg2 1/PantherRLegAnkle 1
+        weight: 1
+      - path: PantherPelvis/PantherTail1
+        weight: 1
+      - path: PantherRLegPlatform
+        weight: 1
+      - path: PantherRLegPlatform 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

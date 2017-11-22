@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 5e80a263c1a45e847aa175cbd52c5996
+timeCreated: 1476005377
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Archway
+    100002: Archway-Small
+    100004: Archway-Small01
+    100006: Archway01
+    100008: Archway02
+    100010: Archway03
+    100012: B_MID
+    100014: B_Top
+    100016: PillarEnd
+    100018: PillarEnd001
+    100020: PillarEnd002
+    100022: PillarEnd003
+    100024: PlatformWall
+    100026: //RootNode
+    100028: Support-Base
+    100030: Support-Base-Small
+    100032: Support-Base-Small001
+    100034: Support-Base001
+    100036: Support-Base002
+    100038: Support-Join
+    100040: Support-Join003
+    100042: Support-Join004
+    100044: Support-Join01
+    100046: Support-Join02
+    400000: Archway
+    400002: Archway-Small
+    400004: Archway-Small01
+    400006: Archway01
+    400008: Archway02
+    400010: Archway03
+    400012: B_MID
+    400014: B_Top
+    400016: PillarEnd
+    400018: PillarEnd001
+    400020: PillarEnd002
+    400022: PillarEnd003
+    400024: PlatformWall
+    400026: //RootNode
+    400028: Support-Base
+    400030: Support-Base-Small
+    400032: Support-Base-Small001
+    400034: Support-Base001
+    400036: Support-Base002
+    400038: Support-Join
+    400040: Support-Join003
+    400042: Support-Join004
+    400044: Support-Join01
+    400046: Support-Join02
+    2300000: Archway
+    2300002: Archway-Small
+    2300004: Archway-Small01
+    2300006: Archway01
+    2300008: Archway02
+    2300010: Archway03
+    2300012: B_MID
+    2300014: B_Top
+    2300016: PillarEnd
+    2300018: PillarEnd001
+    2300020: PillarEnd002
+    2300022: PillarEnd003
+    2300024: PlatformWall
+    2300026: Support-Base
+    2300028: Support-Base-Small
+    2300030: Support-Base-Small001
+    2300032: Support-Base001
+    2300034: Support-Base002
+    2300036: Support-Join
+    2300038: Support-Join003
+    2300040: Support-Join004
+    2300042: Support-Join01
+    2300044: Support-Join02
+    3300000: Archway
+    3300002: Archway-Small
+    3300004: Archway-Small01
+    3300006: Archway01
+    3300008: Archway02
+    3300010: Archway03
+    3300012: B_MID
+    3300014: B_Top
+    3300016: PillarEnd
+    3300018: PillarEnd001
+    3300020: PillarEnd002
+    3300022: PillarEnd003
+    3300024: PlatformWall
+    3300026: Support-Base
+    3300028: Support-Base-Small
+    3300030: Support-Base-Small001
+    3300032: Support-Base001
+    3300034: Support-Base002
+    3300036: Support-Join
+    3300038: Support-Join003
+    3300040: Support-Join004
+    3300042: Support-Join01
+    3300044: Support-Join02
+    4300000: Archway
+    4300002: Archway01
+    4300004: Archway02
+    4300006: Archway03
+    4300008: B_MID
+    4300010: Support-Join
+    4300012: Support-Join01
+    4300014: Support-Join02
+    4300016: Support-Base
+    4300018: Support-Base001
+    4300020: Support-Base002
+    4300022: B_Top
+    4300024: Archway-Small
+    4300026: Archway-Small01
+    4300028: Support-Base-Small
+    4300030: Support-Base-Small001
+    4300032: Support-Join003
+    4300034: Support-Join004
+    4300036: PillarEnd
+    4300038: PillarEnd001
+    4300040: PillarEnd002
+    4300042: PillarEnd003
+    4300044: PlatformWall
+    6400000: Archway
+    6400002: Archway-Small
+    6400004: Archway-Small01
+    6400006: Archway01
+    6400008: Archway02
+    6400010: Archway03
+    6400012: B_MID
+    6400014: B_Top
+    6400016: PillarEnd
+    6400018: PillarEnd001
+    6400020: PillarEnd002
+    6400022: PillarEnd003
+    6400024: PlatformWall
+    6400026: Support-Base
+    6400028: Support-Base-Small
+    6400030: Support-Base-Small001
+    6400032: Support-Base001
+    6400034: Support-Base002
+    6400036: Support-Join
+    6400038: Support-Join003
+    6400040: Support-Join004
+    6400042: Support-Join01
+    6400044: Support-Join02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

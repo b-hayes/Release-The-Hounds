@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 04db5e90d2ae06343b5ac0e9c0f4bc5d
+timeCreated: 1474935987
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: aec150913aa955c17d7de359540004e2
+  longitude: -105.24213899999999
+  latitude: 40.018309000000002
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -3.76094413, y: 4.65419769, z: 1.20710254}
+      lookAt: {x: 3.96249723, y: 1.9609983, z: 6.17839766}
+      up: {x: .23659493, y: .959599614, z: .152287453}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Coregation_Part
+    100002: Coregation_Part 1
+    100004: Coregation_Part 10
+    100006: Coregation_Part 11
+    100008: Coregation_Part 12
+    100010: Coregation_Part 13
+    100012: Coregation_Part 14
+    100014: Coregation_Part 15
+    100016: Coregation_Part 16
+    100018: Coregation_Part 2
+    100020: Coregation_Part 3
+    100022: Coregation_Part 4
+    100024: Coregation_Part 5
+    100026: Coregation_Part 6
+    100028: Coregation_Part 7
+    100030: Coregation_Part 8
+    100032: Coregation_Part 9
+    100034: Corigated_Roof
+    100036: Cross Beam
+    100038: Cross Beam 1
+    100040: Cross Beams
+    100042: Post
+    100044: Post 1
+    100046: Posts
+    100048: Shader Beam
+    100050: Shader Beam 1
+    100052: Shader Beam 2
+    100054: Shader Beam 3
+    100056: Shader Beam 4
+    100058: Shader Beam 5
+    100060: Shader Beam 6
+    100062: Shader Beams
+    100064: //RootNode
+    100066: The Shed
+    400000: Coregation_Part
+    400002: Coregation_Part 1
+    400004: Coregation_Part 10
+    400006: Coregation_Part 11
+    400008: Coregation_Part 12
+    400010: Coregation_Part 13
+    400012: Coregation_Part 14
+    400014: Coregation_Part 15
+    400016: Coregation_Part 16
+    400018: Coregation_Part 2
+    400020: Coregation_Part 3
+    400022: Coregation_Part 4
+    400024: Coregation_Part 5
+    400026: Coregation_Part 6
+    400028: Coregation_Part 7
+    400030: Coregation_Part 8
+    400032: Coregation_Part 9
+    400034: Corigated_Roof
+    400036: Cross Beam
+    400038: Cross Beam 1
+    400040: Cross Beams
+    400042: Post
+    400044: Post 1
+    400046: Posts
+    400048: Shader Beam
+    400050: Shader Beam 1
+    400052: Shader Beam 2
+    400054: Shader Beam 3
+    400056: Shader Beam 4
+    400058: Shader Beam 5
+    400060: Shader Beam 6
+    400062: Shader Beams
+    400064: //RootNode
+    400066: The Shed
+    2300000: Coregation_Part
+    2300002: Coregation_Part 1
+    2300004: Coregation_Part 10
+    2300006: Coregation_Part 11
+    2300008: Coregation_Part 12
+    2300010: Coregation_Part 13
+    2300012: Coregation_Part 14
+    2300014: Coregation_Part 15
+    2300016: Coregation_Part 16
+    2300018: Coregation_Part 2
+    2300020: Coregation_Part 3
+    2300022: Coregation_Part 4
+    2300024: Coregation_Part 5
+    2300026: Coregation_Part 6
+    2300028: Coregation_Part 7
+    2300030: Coregation_Part 8
+    2300032: Coregation_Part 9
+    2300034: Cross Beam
+    2300036: Cross Beam 1
+    2300038: Post
+    2300040: Post 1
+    2300042: Shader Beam
+    2300044: Shader Beam 1
+    2300046: Shader Beam 2
+    2300048: Shader Beam 3
+    2300050: Shader Beam 4
+    2300052: Shader Beam 5
+    2300054: Shader Beam 6
+    2300056: The Shed
+    3300000: Coregation_Part
+    3300002: Coregation_Part 1
+    3300004: Coregation_Part 10
+    3300006: Coregation_Part 11
+    3300008: Coregation_Part 12
+    3300010: Coregation_Part 13
+    3300012: Coregation_Part 14
+    3300014: Coregation_Part 15
+    3300016: Coregation_Part 16
+    3300018: Coregation_Part 2
+    3300020: Coregation_Part 3
+    3300022: Coregation_Part 4
+    3300024: Coregation_Part 5
+    3300026: Coregation_Part 6
+    3300028: Coregation_Part 7
+    3300030: Coregation_Part 8
+    3300032: Coregation_Part 9
+    3300034: Cross Beam
+    3300036: Cross Beam 1
+    3300038: Post
+    3300040: Post 1
+    3300042: Shader Beam
+    3300044: Shader Beam 1
+    3300046: Shader Beam 2
+    3300048: Shader Beam 3
+    3300050: Shader Beam 4
+    3300052: Shader Beam 5
+    3300054: Shader Beam 6
+    3300056: The Shed
+    4300000: Mesh The Shed
+    4300002: Mesh Shader Beam
+    4300004: Mesh Cross Beam
+    4300006: Mesh Post
+    4300008: Mesh Coregation_Part
+    6400000: Coregation_Part
+    6400002: Coregation_Part 1
+    6400004: Coregation_Part 10
+    6400006: Coregation_Part 11
+    6400008: Coregation_Part 12
+    6400010: Coregation_Part 13
+    6400012: Coregation_Part 14
+    6400014: Coregation_Part 15
+    6400016: Coregation_Part 16
+    6400018: Coregation_Part 2
+    6400020: Coregation_Part 3
+    6400022: Coregation_Part 4
+    6400024: Coregation_Part 5
+    6400026: Coregation_Part 6
+    6400028: Coregation_Part 7
+    6400030: Coregation_Part 8
+    6400032: Coregation_Part 9
+    6400034: Cross Beam
+    6400036: Cross Beam 1
+    6400038: Post
+    6400040: Post 1
+    6400042: Shader Beam
+    6400044: Shader Beam 1
+    6400046: Shader Beam 2
+    6400048: Shader Beam 3
+    6400050: Shader Beam 4
+    6400052: Shader Beam 5
+    6400054: Shader Beam 6
+    6400056: The Shed
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

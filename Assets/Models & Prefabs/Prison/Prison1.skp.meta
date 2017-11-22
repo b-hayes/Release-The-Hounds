@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: a8b3bf324f4130d45a8e49dcaa655fcd
+timeCreated: 1475017508
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f01000030010000310100003201000033010000340100003501000036010000370100003801000039010000
+  assetHash:
+    serializedVersion: 2
+    Hash: fe4a871518c7af1d2be4f12922b72b74
+  longitude: -105.24213899999999
+  latitude: 40.018309000000002
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -14.6034803, y: -1.04530692, z: 10.4149208}
+      lookAt: {x: 9.14245892, y: 4.98556089, z: 9.02212715}
+      up: {x: .245341256, y: -.969329953, z: -.0143902386}
+      fov: 50
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cell
+    100002: Cell 1
+    100004: Cell 10
+    100006: Cell 11
+    100008: Cell 12
+    100010: Cell 13
+    100012: Cell 14
+    100014: Cell 15
+    100016: Cell 16
+    100018: Cell 17
+    100020: Cell 18
+    100022: Cell 19
+    100024: Cell 2
+    100026: Cell 3
+    100028: Cell 4
+    100030: Cell 5
+    100032: Cell 6
+    100034: Cell 7
+    100036: Cell 8
+    100038: Cell 9
+    100040: Cell with wall missing
+    100042: Cell with wall missing 1
+    100044: Cell with wall missing 2
+    100046: Cell with wall missing 3
+    100048: Cell with wall missing 4
+    100050: Cell with wall missing 5
+    100052: Cell with wall missing 6
+    100054: Cell with wall missing 7
+    100056: Cell with wall missing 8
+    100058: Cell with wall missing 9
+    100060: Coridoor_Ceilingb
+    100062: Coridoor_Floor
+    100064: Fluro_light
+    100066: Fluro_light 1
+    100068: Fluro_light 10
+    100070: Fluro_light 11
+    100072: Fluro_light 12
+    100074: Fluro_light 13
+    100076: Fluro_light 2
+    100078: Fluro_light 3
+    100080: Fluro_light 4
+    100082: Fluro_light 5
+    100084: Fluro_light 6
+    100086: Fluro_light 7
+    100088: Fluro_light 8
+    100090: Fluro_light 9
+    100092: Foyer
+    100094: Foyer_Ceiling
+    100096: Foyer_Floor
+    100098: Foyer_Wall1
+    100100: Foyer_Wall1 1
+    100102: Lab
+    100104: Metal_Bar
+    100106: Metal_Bar 1
+    100108: Metal_Bar 10
+    100110: Metal_Bar 100
+    100112: Metal_Bar 101
+    100114: Metal_Bar 102
+    100116: Metal_Bar 103
+    100118: Metal_Bar 104
+    100120: Metal_Bar 105
+    100122: Metal_Bar 106
+    100124: Metal_Bar 107
+    100126: Metal_Bar 108
+    100128: Metal_Bar 109
+    100130: Metal_Bar 11
+    100132: Metal_Bar 12
+    100134: Metal_Bar 13
+    100136: Metal_Bar 14
+    100138: Metal_Bar 15
+    100140: Metal_Bar 16
+    100142: Metal_Bar 17
+    100144: Metal_Bar 18
+    100146: Metal_Bar 19
+    100148: Metal_Bar 2
+    100150: Metal_Bar 20
+    100152: Metal_Bar 21
+    100154: Metal_Bar 22
+    100156: Metal_Bar 23
+    100158: Metal_Bar 24
+    100160: Metal_Bar 25
+    100162: Metal_Bar 26
+    100164: Metal_Bar 27
+    100166: Metal_Bar 28
+    100168: Metal_Bar 29
+    100170: Metal_Bar 3
+    100172: Metal_Bar 30
+    100174: Metal_Bar 31
+    100176: Metal_Bar 32
+    100178: Metal_Bar 33
+    100180: Metal_Bar 34
+    100182: Metal_Bar 35
+    100184: Metal_Bar 36
+    100186: Metal_Bar 37
+    100188: Metal_Bar 38
+    100190: Metal_Bar 39
+    100192: Metal_Bar 4
+    100194: Metal_Bar 40
+    100196: Metal_Bar 41
+    100198: Metal_Bar 42
+    100200: Metal_Bar 43
+    100202: Metal_Bar 44
+    100204: Metal_Bar 45
+    100206: Metal_Bar 46
+    100208: Metal_Bar 47
+    100210: Metal_Bar 48
+    100212: Metal_Bar 49
+    100214: Metal_Bar 5
+    100216: Metal_Bar 50
+    100218: Metal_Bar 51
+    100220: Metal_Bar 52
+    100222: Metal_Bar 53
+    100224: Metal_Bar 54
+    100226: Metal_Bar 55
+    100228: Metal_Bar 56
+    100230: Metal_Bar 57
+    100232: Metal_Bar 58
+    100234: Metal_Bar 59
+    100236: Metal_Bar 6
+    100238: Metal_Bar 60
+    100240: Metal_Bar 61
+    100242: Metal_Bar 62
+    100244: Metal_Bar 63
+    100246: Metal_Bar 64
+    100248: Metal_Bar 65
+    100250: Metal_Bar 66
+    100252: Metal_Bar 67
+    100254: Metal_Bar 68
+    100256: Metal_Bar 69
+    100258: Metal_Bar 7
+    100260: Metal_Bar 70
+    100262: Metal_Bar 71
+    100264: Metal_Bar 72
+    100266: Metal_Bar 73
+    100268: Metal_Bar 74
+    100270: Metal_Bar 75
+    100272: Metal_Bar 76
+    100274: Metal_Bar 77
+    100276: Metal_Bar 78
+    100278: Metal_Bar 79
+    100280: Metal_Bar 8
+    100282: Metal_Bar 80
+    100284: Metal_Bar 81
+    100286: Metal_Bar 82
+    100288: Metal_Bar 83
+    100290: Metal_Bar 84
+    100292: Metal_Bar 85
+    100294: Metal_Bar 86
+    100296: Metal_Bar 87
+    100298: Metal_Bar 88
+    100300: Metal_Bar 89
+    100302: Metal_Bar 9
+    100304: Metal_Bar 90
+    100306: Metal_Bar 91
+    100308: Metal_Bar 92
+    100310: Metal_Bar 93
+    100312: Metal_Bar 94
+    100314: Metal_Bar 95
+    100316: Metal_Bar 96
+    100318: Metal_Bar 97
+    100320: Metal_Bar 98
+    100322: Metal_Bar 99
+    100324: //RootNode
+    100326: View_Bars
+    100328: View_Bars 1
+    100330: View_Bars 2
+    100332: View_Bars 3
+    100334: View_Bars 4
+    100336: View_Bars 5
+    100338: View_Bars 6
+    100340: View_Bars 7
+    100342: View_Bars 8
+    100344: View_Bars 9
+    400000: Cell
+    400002: Cell 1
+    400004: Cell 10
+    400006: Cell 11
+    400008: Cell 12
+    400010: Cell 13
+    400012: Cell 14
+    400014: Cell 15
+    400016: Cell 16
+    400018: Cell 17
+    400020: Cell 18
+    400022: Cell 19
+    400024: Cell 2
+    400026: Cell 3
+    400028: Cell 4
+    400030: Cell 5
+    400032: Cell 6
+    400034: Cell 7
+    400036: Cell 8
+    400038: Cell 9
+    400040: Cell with wall missing
+    400042: Cell with wall missing 1
+    400044: Cell with wall missing 2
+    400046: Cell with wall missing 3
+    400048: Cell with wall missing 4
+    400050: Cell with wall missing 5
+    400052: Cell with wall missing 6
+    400054: Cell with wall missing 7
+    400056: Cell with wall missing 8
+    400058: Cell with wall missing 9
+    400060: Coridoor_Ceilingb
+    400062: Coridoor_Floor
+    400064: Fluro_light
+    400066: Fluro_light 1
+    400068: Fluro_light 10
+    400070: Fluro_light 11
+    400072: Fluro_light 12
+    400074: Fluro_light 13
+    400076: Fluro_light 2
+    400078: Fluro_light 3
+    400080: Fluro_light 4
+    400082: Fluro_light 5
+    400084: Fluro_light 6
+    400086: Fluro_light 7
+    400088: Fluro_light 8
+    400090: Fluro_light 9
+    400092: Foyer
+    400094: Foyer_Ceiling
+    400096: Foyer_Floor
+    400098: Foyer_Wall1
+    400100: Foyer_Wall1 1
+    400102: Lab
+    400104: Metal_Bar
+    400106: Metal_Bar 1
+    400108: Metal_Bar 10
+    400110: Metal_Bar 100
+    400112: Metal_Bar 101
+    400114: Metal_Bar 102
+    400116: Metal_Bar 103
+    400118: Metal_Bar 104
+    400120: Metal_Bar 105
+    400122: Metal_Bar 106
+    400124: Metal_Bar 107
+    400126: Metal_Bar 108
+    400128: Metal_Bar 109
+    400130: Metal_Bar 11
+    400132: Metal_Bar 12
+    400134: Metal_Bar 13
+    400136: Metal_Bar 14
+    400138: Metal_Bar 15
+    400140: Metal_Bar 16
+    400142: Metal_Bar 17
+    400144: Metal_Bar 18
+    400146: Metal_Bar 19
+    400148: Metal_Bar 2
+    400150: Metal_Bar 20
+    400152: Metal_Bar 21
+    400154: Metal_Bar 22
+    400156: Metal_Bar 23
+    400158: Metal_Bar 24
+    400160: Metal_Bar 25
+    400162: Metal_Bar 26
+    400164: Metal_Bar 27
+    400166: Metal_Bar 28
+    400168: Metal_Bar 29
+    400170: Metal_Bar 3
+    400172: Metal_Bar 30
+    400174: Metal_Bar 31
+    400176: Metal_Bar 32
+    400178: Metal_Bar 33
+    400180: Metal_Bar 34
+    400182: Metal_Bar 35
+    400184: Metal_Bar 36
+    400186: Metal_Bar 37
+    400188: Metal_Bar 38
+    400190: Metal_Bar 39
+    400192: Metal_Bar 4
+    400194: Metal_Bar 40
+    400196: Metal_Bar 41
+    400198: Metal_Bar 42
+    400200: Metal_Bar 43
+    400202: Metal_Bar 44
+    400204: Metal_Bar 45
+    400206: Metal_Bar 46
+    400208: Metal_Bar 47
+    400210: Metal_Bar 48
+    400212: Metal_Bar 49
+    400214: Metal_Bar 5
+    400216: Metal_Bar 50
+    400218: Metal_Bar 51
+    400220: Metal_Bar 52
+    400222: Metal_Bar 53
+    400224: Metal_Bar 54
+    400226: Metal_Bar 55
+    400228: Metal_Bar 56
+    400230: Metal_Bar 57
+    400232: Metal_Bar 58
+    400234: Metal_Bar 59
+    400236: Metal_Bar 6
+    400238: Metal_Bar 60
+    400240: Metal_Bar 61
+    400242: Metal_Bar 62
+    400244: Metal_Bar 63
+    400246: Metal_Bar 64
+    400248: Metal_Bar 65
+    400250: Metal_Bar 66
+    400252: Metal_Bar 67
+    400254: Metal_Bar 68
+    400256: Metal_Bar 69
+    400258: Metal_Bar 7
+    400260: Metal_Bar 70
+    400262: Metal_Bar 71
+    400264: Metal_Bar 72
+    400266: Metal_Bar 73
+    400268: Metal_Bar 74
+    400270: Metal_Bar 75
+    400272: Metal_Bar 76
+    400274: Metal_Bar 77
+    400276: Metal_Bar 78
+    400278: Metal_Bar 79
+    400280: Metal_Bar 8
+    400282: Metal_Bar 80
+    400284: Metal_Bar 81
+    400286: Metal_Bar 82
+    400288: Metal_Bar 83
+    400290: Metal_Bar 84
+    400292: Metal_Bar 85
+    400294: Metal_Bar 86
+    400296: Metal_Bar 87
+    400298: Metal_Bar 88
+    400300: Metal_Bar 89
+    400302: Metal_Bar 9
+    400304: Metal_Bar 90
+    400306: Metal_Bar 91
+    400308: Metal_Bar 92
+    400310: Metal_Bar 93
+    400312: Metal_Bar 94
+    400314: Metal_Bar 95
+    400316: Metal_Bar 96
+    400318: Metal_Bar 97
+    400320: Metal_Bar 98
+    400322: Metal_Bar 99
+    400324: //RootNode
+    400326: View_Bars
+    400328: View_Bars 1
+    400330: View_Bars 2
+    400332: View_Bars 3
+    400334: View_Bars 4
+    400336: View_Bars 5
+    400338: View_Bars 6
+    400340: View_Bars 7
+    400342: View_Bars 8
+    400344: View_Bars 9
+    2300000: Cell 10
+    2300002: Cell 11
+    2300004: Cell 12
+    2300006: Cell 13
+    2300008: Cell 14
+    2300010: Cell 15
+    2300012: Cell 16
+    2300014: Cell 17
+    2300016: Cell 18
+    2300018: Cell 19
+    2300020: Coridoor_Ceilingb
+    2300022: Coridoor_Floor
+    2300024: Fluro_light
+    2300026: Fluro_light 1
+    2300028: Fluro_light 10
+    2300030: Fluro_light 11
+    2300032: Fluro_light 12
+    2300034: Fluro_light 13
+    2300036: Fluro_light 2
+    2300038: Fluro_light 3
+    2300040: Fluro_light 4
+    2300042: Fluro_light 5
+    2300044: Fluro_light 6
+    2300046: Fluro_light 7
+    2300048: Fluro_light 8
+    2300050: Fluro_light 9
+    2300052: Foyer_Ceiling
+    2300054: Foyer_Floor
+    2300056: Foyer_Wall1
+    2300058: Foyer_Wall1 1
+    2300060: Lab
+    2300062: Metal_Bar
+    2300064: Metal_Bar 1
+    2300066: Metal_Bar 10
+    2300068: Metal_Bar 100
+    2300070: Metal_Bar 101
+    2300072: Metal_Bar 102
+    2300074: Metal_Bar 103
+    2300076: Metal_Bar 104
+    2300078: Metal_Bar 105
+    2300080: Metal_Bar 106
+    2300082: Metal_Bar 107
+    2300084: Metal_Bar 108
+    2300086: Metal_Bar 109
+    2300088: Metal_Bar 11
+    2300090: Metal_Bar 12
+    2300092: Metal_Bar 13
+    2300094: Metal_Bar 14
+    2300096: Metal_Bar 15
+    2300098: Metal_Bar 16
+    2300100: Metal_Bar 17
+    2300102: Metal_Bar 18
+    2300104: Metal_Bar 19
+    2300106: Metal_Bar 2
+    2300108: Metal_Bar 20
+    2300110: Metal_Bar 21
+    2300112: Metal_Bar 22
+    2300114: Metal_Bar 23
+    2300116: Metal_Bar 24
+    2300118: Metal_Bar 25
+    2300120: Metal_Bar 26
+    2300122: Metal_Bar 27
+    2300124: Metal_Bar 28
+    2300126: Metal_Bar 29
+    2300128: Metal_Bar 3
+    2300130: Metal_Bar 30
+    2300132: Metal_Bar 31
+    2300134: Metal_Bar 32
+    2300136: Metal_Bar 33
+    2300138: Metal_Bar 34
+    2300140: Metal_Bar 35
+    2300142: Metal_Bar 36
+    2300144: Metal_Bar 37
+    2300146: Metal_Bar 38
+    2300148: Metal_Bar 39
+    2300150: Metal_Bar 4
+    2300152: Metal_Bar 40
+    2300154: Metal_Bar 41
+    2300156: Metal_Bar 42
+    2300158: Metal_Bar 43
+    2300160: Metal_Bar 44
+    2300162: Metal_Bar 45
+    2300164: Metal_Bar 46
+    2300166: Metal_Bar 47
+    2300168: Metal_Bar 48
+    2300170: Metal_Bar 49
+    2300172: Metal_Bar 5
+    2300174: Metal_Bar 50
+    2300176: Metal_Bar 51
+    2300178: Metal_Bar 52
+    2300180: Metal_Bar 53
+    2300182: Metal_Bar 54
+    2300184: Metal_Bar 55
+    2300186: Metal_Bar 56
+    2300188: Metal_Bar 57
+    2300190: Metal_Bar 58
+    2300192: Metal_Bar 59
+    2300194: Metal_Bar 6
+    2300196: Metal_Bar 60
+    2300198: Metal_Bar 61
+    2300200: Metal_Bar 62
+    2300202: Metal_Bar 63
+    2300204: Metal_Bar 64
+    2300206: Metal_Bar 65
+    2300208: Metal_Bar 66
+    2300210: Metal_Bar 67
+    2300212: Metal_Bar 68
+    2300214: Metal_Bar 69
+    2300216: Metal_Bar 7
+    2300218: Metal_Bar 70
+    2300220: Metal_Bar 71
+    2300222: Metal_Bar 72
+    2300224: Metal_Bar 73
+    2300226: Metal_Bar 74
+    2300228: Metal_Bar 75
+    2300230: Metal_Bar 76
+    2300232: Metal_Bar 77
+    2300234: Metal_Bar 78
+    2300236: Metal_Bar 79
+    2300238: Metal_Bar 8
+    2300240: Metal_Bar 80
+    2300242: Metal_Bar 81
+    2300244: Metal_Bar 82
+    2300246: Metal_Bar 83
+    2300248: Metal_Bar 84
+    2300250: Metal_Bar 85
+    2300252: Metal_Bar 86
+    2300254: Metal_Bar 87
+    2300256: Metal_Bar 88
+    2300258: Metal_Bar 89
+    2300260: Metal_Bar 9
+    2300262: Metal_Bar 90
+    2300264: Metal_Bar 91
+    2300266: Metal_Bar 92
+    2300268: Metal_Bar 93
+    2300270: Metal_Bar 94
+    2300272: Metal_Bar 95
+    2300274: Metal_Bar 96
+    2300276: Metal_Bar 97
+    2300278: Metal_Bar 98
+    2300280: Metal_Bar 99
+    3300000: Cell 10
+    3300002: Cell 11
+    3300004: Cell 12
+    3300006: Cell 13
+    3300008: Cell 14
+    3300010: Cell 15
+    3300012: Cell 16
+    3300014: Cell 17
+    3300016: Cell 18
+    3300018: Cell 19
+    3300020: Coridoor_Ceilingb
+    3300022: Coridoor_Floor
+    3300024: Fluro_light
+    3300026: Fluro_light 1
+    3300028: Fluro_light 10
+    3300030: Fluro_light 11
+    3300032: Fluro_light 12
+    3300034: Fluro_light 13
+    3300036: Fluro_light 2
+    3300038: Fluro_light 3
+    3300040: Fluro_light 4
+    3300042: Fluro_light 5
+    3300044: Fluro_light 6
+    3300046: Fluro_light 7
+    3300048: Fluro_light 8
+    3300050: Fluro_light 9
+    3300052: Foyer_Ceiling
+    3300054: Foyer_Floor
+    3300056: Foyer_Wall1
+    3300058: Foyer_Wall1 1
+    3300060: Lab
+    3300062: Metal_Bar
+    3300064: Metal_Bar 1
+    3300066: Metal_Bar 10
+    3300068: Metal_Bar 100
+    3300070: Metal_Bar 101
+    3300072: Metal_Bar 102
+    3300074: Metal_Bar 103
+    3300076: Metal_Bar 104
+    3300078: Metal_Bar 105
+    3300080: Metal_Bar 106
+    3300082: Metal_Bar 107
+    3300084: Metal_Bar 108
+    3300086: Metal_Bar 109
+    3300088: Metal_Bar 11
+    3300090: Metal_Bar 12
+    3300092: Metal_Bar 13
+    3300094: Metal_Bar 14
+    3300096: Metal_Bar 15
+    3300098: Metal_Bar 16
+    3300100: Metal_Bar 17
+    3300102: Metal_Bar 18
+    3300104: Metal_Bar 19
+    3300106: Metal_Bar 2
+    3300108: Metal_Bar 20
+    3300110: Metal_Bar 21
+    3300112: Metal_Bar 22
+    3300114: Metal_Bar 23
+    3300116: Metal_Bar 24
+    3300118: Metal_Bar 25
+    3300120: Metal_Bar 26
+    3300122: Metal_Bar 27
+    3300124: Metal_Bar 28
+    3300126: Metal_Bar 29
+    3300128: Metal_Bar 3
+    3300130: Metal_Bar 30
+    3300132: Metal_Bar 31
+    3300134: Metal_Bar 32
+    3300136: Metal_Bar 33
+    3300138: Metal_Bar 34
+    3300140: Metal_Bar 35
+    3300142: Metal_Bar 36
+    3300144: Metal_Bar 37
+    3300146: Metal_Bar 38
+    3300148: Metal_Bar 39
+    3300150: Metal_Bar 4
+    3300152: Metal_Bar 40
+    3300154: Metal_Bar 41
+    3300156: Metal_Bar 42
+    3300158: Metal_Bar 43
+    3300160: Metal_Bar 44
+    3300162: Metal_Bar 45
+    3300164: Metal_Bar 46
+    3300166: Metal_Bar 47
+    3300168: Metal_Bar 48
+    3300170: Metal_Bar 49
+    3300172: Metal_Bar 5
+    3300174: Metal_Bar 50
+    3300176: Metal_Bar 51
+    3300178: Metal_Bar 52
+    3300180: Metal_Bar 53
+    3300182: Metal_Bar 54
+    3300184: Metal_Bar 55
+    3300186: Metal_Bar 56
+    3300188: Metal_Bar 57
+    3300190: Metal_Bar 58
+    3300192: Metal_Bar 59
+    3300194: Metal_Bar 6
+    3300196: Metal_Bar 60
+    3300198: Metal_Bar 61
+    3300200: Metal_Bar 62
+    3300202: Metal_Bar 63
+    3300204: Metal_Bar 64
+    3300206: Metal_Bar 65
+    3300208: Metal_Bar 66
+    3300210: Metal_Bar 67
+    3300212: Metal_Bar 68
+    3300214: Metal_Bar 69
+    3300216: Metal_Bar 7
+    3300218: Metal_Bar 70
+    3300220: Metal_Bar 71
+    3300222: Metal_Bar 72
+    3300224: Metal_Bar 73
+    3300226: Metal_Bar 74
+    3300228: Metal_Bar 75
+    3300230: Metal_Bar 76
+    3300232: Metal_Bar 77
+    3300234: Metal_Bar 78
+    3300236: Metal_Bar 79
+    3300238: Metal_Bar 8
+    3300240: Metal_Bar 80
+    3300242: Metal_Bar 81
+    3300244: Metal_Bar 82
+    3300246: Metal_Bar 83
+    3300248: Metal_Bar 84
+    3300250: Metal_Bar 85
+    3300252: Metal_Bar 86
+    3300254: Metal_Bar 87
+    3300256: Metal_Bar 88
+    3300258: Metal_Bar 89
+    3300260: Metal_Bar 9
+    3300262: Metal_Bar 90
+    3300264: Metal_Bar 91
+    3300266: Metal_Bar 92
+    3300268: Metal_Bar 93
+    3300270: Metal_Bar 94
+    3300272: Metal_Bar 95
+    3300274: Metal_Bar 96
+    3300276: Metal_Bar 97
+    3300278: Metal_Bar 98
+    3300280: Metal_Bar 99
+    4300000: Mesh Coridoor_Floor
+    4300002: Mesh Coridoor_Ceilingb
+    4300004: Mesh Fluro_light
+    4300006: Mesh Lab
+    4300008: Mesh Fluro_light
+    4300010: Mesh Foyer_Floor
+    4300012: Mesh Foyer_Wall1
+    4300014: Mesh Foyer_Ceiling
+    4300016: Mesh Cell
+    4300018: Mesh Metal_Bar
+    6400000: Cell 10
+    6400002: Cell 11
+    6400004: Cell 12
+    6400006: Cell 13
+    6400008: Cell 14
+    6400010: Cell 15
+    6400012: Cell 16
+    6400014: Cell 17
+    6400016: Cell 18
+    6400018: Cell 19
+    6400020: Coridoor_Ceilingb
+    6400022: Coridoor_Floor
+    6400024: Fluro_light
+    6400026: Fluro_light 1
+    6400028: Fluro_light 10
+    6400030: Fluro_light 11
+    6400032: Fluro_light 12
+    6400034: Fluro_light 13
+    6400036: Fluro_light 2
+    6400038: Fluro_light 3
+    6400040: Fluro_light 4
+    6400042: Fluro_light 5
+    6400044: Fluro_light 6
+    6400046: Fluro_light 7
+    6400048: Fluro_light 8
+    6400050: Fluro_light 9
+    6400052: Foyer_Ceiling
+    6400054: Foyer_Floor
+    6400056: Foyer_Wall1
+    6400058: Foyer_Wall1 1
+    6400060: Lab
+    6400062: Metal_Bar
+    6400064: Metal_Bar 1
+    6400066: Metal_Bar 10
+    6400068: Metal_Bar 100
+    6400070: Metal_Bar 101
+    6400072: Metal_Bar 102
+    6400074: Metal_Bar 103
+    6400076: Metal_Bar 104
+    6400078: Metal_Bar 105
+    6400080: Metal_Bar 106
+    6400082: Metal_Bar 107
+    6400084: Metal_Bar 108
+    6400086: Metal_Bar 109
+    6400088: Metal_Bar 11
+    6400090: Metal_Bar 12
+    6400092: Metal_Bar 13
+    6400094: Metal_Bar 14
+    6400096: Metal_Bar 15
+    6400098: Metal_Bar 16
+    6400100: Metal_Bar 17
+    6400102: Metal_Bar 18
+    6400104: Metal_Bar 19
+    6400106: Metal_Bar 2
+    6400108: Metal_Bar 20
+    6400110: Metal_Bar 21
+    6400112: Metal_Bar 22
+    6400114: Metal_Bar 23
+    6400116: Metal_Bar 24
+    6400118: Metal_Bar 25
+    6400120: Metal_Bar 26
+    6400122: Metal_Bar 27
+    6400124: Metal_Bar 28
+    6400126: Metal_Bar 29
+    6400128: Metal_Bar 3
+    6400130: Metal_Bar 30
+    6400132: Metal_Bar 31
+    6400134: Metal_Bar 32
+    6400136: Metal_Bar 33
+    6400138: Metal_Bar 34
+    6400140: Metal_Bar 35
+    6400142: Metal_Bar 36
+    6400144: Metal_Bar 37
+    6400146: Metal_Bar 38
+    6400148: Metal_Bar 39
+    6400150: Metal_Bar 4
+    6400152: Metal_Bar 40
+    6400154: Metal_Bar 41
+    6400156: Metal_Bar 42
+    6400158: Metal_Bar 43
+    6400160: Metal_Bar 44
+    6400162: Metal_Bar 45
+    6400164: Metal_Bar 46
+    6400166: Metal_Bar 47
+    6400168: Metal_Bar 48
+    6400170: Metal_Bar 49
+    6400172: Metal_Bar 5
+    6400174: Metal_Bar 50
+    6400176: Metal_Bar 51
+    6400178: Metal_Bar 52
+    6400180: Metal_Bar 53
+    6400182: Metal_Bar 54
+    6400184: Metal_Bar 55
+    6400186: Metal_Bar 56
+    6400188: Metal_Bar 57
+    6400190: Metal_Bar 58
+    6400192: Metal_Bar 59
+    6400194: Metal_Bar 6
+    6400196: Metal_Bar 60
+    6400198: Metal_Bar 61
+    6400200: Metal_Bar 62
+    6400202: Metal_Bar 63
+    6400204: Metal_Bar 64
+    6400206: Metal_Bar 65
+    6400208: Metal_Bar 66
+    6400210: Metal_Bar 67
+    6400212: Metal_Bar 68
+    6400214: Metal_Bar 69
+    6400216: Metal_Bar 7
+    6400218: Metal_Bar 70
+    6400220: Metal_Bar 71
+    6400222: Metal_Bar 72
+    6400224: Metal_Bar 73
+    6400226: Metal_Bar 74
+    6400228: Metal_Bar 75
+    6400230: Metal_Bar 76
+    6400232: Metal_Bar 77
+    6400234: Metal_Bar 78
+    6400236: Metal_Bar 79
+    6400238: Metal_Bar 8
+    6400240: Metal_Bar 80
+    6400242: Metal_Bar 81
+    6400244: Metal_Bar 82
+    6400246: Metal_Bar 83
+    6400248: Metal_Bar 84
+    6400250: Metal_Bar 85
+    6400252: Metal_Bar 86
+    6400254: Metal_Bar 87
+    6400256: Metal_Bar 88
+    6400258: Metal_Bar 89
+    6400260: Metal_Bar 9
+    6400262: Metal_Bar 90
+    6400264: Metal_Bar 91
+    6400266: Metal_Bar 92
+    6400268: Metal_Bar 93
+    6400270: Metal_Bar 94
+    6400272: Metal_Bar 95
+    6400274: Metal_Bar 96
+    6400276: Metal_Bar 97
+    6400278: Metal_Bar 98
+    6400280: Metal_Bar 99
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

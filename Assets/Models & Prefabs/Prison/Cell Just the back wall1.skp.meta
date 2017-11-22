@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 331502b9523a32249a567062b3b2b7fd
+timeCreated: 1475563943
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 892a04f01aa5d985d199c903de2baa8f
+  longitude: -105.24213899999999
+  latitude: 40.018309000000002
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.44825745, y: 1.08315361, z: 1.8923378}
+      lookAt: {x: 2.73830056, y: 1.67502701, z: 5.75939703}
+      up: {x: .0708021969, y: .996337235, z: -.0479506776}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bar_Short
+    100002: Bar_Short 1
+    100004: Bar_Short 2
+    100006: Bar_Short 3
+    100008: Bar_Short 4
+    100010: Bar_Short 5
+    100012: Bar_Short 6
+    100014: Bar_Short 7
+    100016: Cell
+    100018: //RootNode
+    400000: Bar_Short
+    400002: Bar_Short 1
+    400004: Bar_Short 2
+    400006: Bar_Short 3
+    400008: Bar_Short 4
+    400010: Bar_Short 5
+    400012: Bar_Short 6
+    400014: Bar_Short 7
+    400016: Cell
+    400018: //RootNode
+    2300000: Bar_Short
+    2300002: Bar_Short 1
+    2300004: Bar_Short 2
+    2300006: Bar_Short 3
+    2300008: Bar_Short 4
+    2300010: Bar_Short 5
+    2300012: Bar_Short 6
+    2300014: Bar_Short 7
+    2300016: Cell
+    3300000: Bar_Short
+    3300002: Bar_Short 1
+    3300004: Bar_Short 2
+    3300006: Bar_Short 3
+    3300008: Bar_Short 4
+    3300010: Bar_Short 5
+    3300012: Bar_Short 6
+    3300014: Bar_Short 7
+    3300016: Cell
+    4300000: Mesh Cell
+    4300002: Mesh Bar_Short
+    6400000: Bar_Short
+    6400002: Bar_Short 1
+    6400004: Bar_Short 2
+    6400006: Bar_Short 3
+    6400008: Bar_Short 4
+    6400010: Bar_Short 5
+    6400012: Bar_Short 6
+    6400014: Bar_Short 7
+    6400016: Cell
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

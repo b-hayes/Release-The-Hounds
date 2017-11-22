@@ -1,0 +1,85 @@
+using UnityEngine;
+using System.Collections;
+
+public class FluroLight : MonoBehaviour {
+
+	public float flicker_duration = 10f;
+	public float flick_speed = 1f; //lower value is faster
+	public float flicker_interval = 10000f;
+	public bool randomise_interval = true;
+	public float min_random_interval = 3000f;
+	public float max_random_interval = 20000f;
+	public bool flicker_object_orchild_object_also = true;
+
+	private bool flickering = false;
+	private float timepassed = 0f;
+	private float flickTime =0f;
+
+	private Light ls; //game objects light component
+	private MeshRenderer mr;
+
+	// Use this for initialization
+	void Start () {
+		if (randomise_interval) {
+			flicker_interval = Random.Range(max_random_interval, max_random_interval);
+		}
+
+		ls = this.GetComponent<Light> ();
+		mr = this.GetComponentInChildren<MeshRenderer> ();
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		timepassed += Time.deltaTime;
+		flickTime += Time.deltaTime;
+
+		if (timepassed > flicker_interval) {
+			flickering = true;
+			timepassed = 0f;
+			Debug.Log("Flickering begun");
+		} else {
+			flickering = false;
+			Debug.Log("Flickering off");
+		}
+
+
+		if (flickering = true && (flickTime > flick_speed)) {
+			Debug.Log ("Toggle");
+			if (flicker_object_orchild_object_also)
+				toggle_this();
+				
+			toggle_ls();
+
+			flickTime = 0f;
+		}
+
+		if (flickering && (timepassed > flicker_duration)) {
+			Debug.Log ("Flicker duration has finished");
+			flickering = false;
+			timepassed = 0f;
+			flickTime = 0f;
+			ls.enabled=true;
+		}
+
+	}
+
+	void toggle_this(){
+		Debug.Log ("Toggle Mesh Renderer");
+		if (mr.enabled) {
+			mr.enabled=false;
+
+		} else {
+			mr.enabled=false;
+		}
+	}
+
+	void toggle_ls(){
+		Debug.Log ("Toggle Light Source");
+		if(ls.enabled){
+			ls.enabled=false;
+		}
+		else{
+			ls.enabled=true;
+		}
+	}
+}
